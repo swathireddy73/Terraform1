@@ -1,0 +1,2 @@
+buckets = ["logs", "test-data"]
+

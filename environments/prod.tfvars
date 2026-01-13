@@ -1,0 +1,2 @@
+buckets = ["logs", "prod-data"]
+
